@@ -1,5 +1,8 @@
 body{
     text-align: center;
+    width: 700px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 h1{
     color: blue;
@@ -18,4 +21,17 @@ h1{
 #pic3{
     width: 200px;
     height: 200px;
+}
+
+.renk{
+    background-color:ghostwhite;
+    width: 700px;;
+    color: royalblue;
+    font-weight: bold;
+}
+.ton{
+    background-color: lavenderblush;
+    color: red;
+    font-weight: bold;
+
 }
